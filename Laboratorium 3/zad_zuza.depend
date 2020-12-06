@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606213725 source:c:\users\irycz\desktop\zad_zuza\main.cpp
+	<iostream>
+	"matrix.h"
+
+1606170695 c:\users\irycz\desktop\zad_zuza\matrix.h
+	<iostream>
+	<fstream>
+
+1606213668 source:c:\users\irycz\desktop\zad_zuza\matrix.cpp
+	<iostream>
+	<string>
+	"matrix.h"
+
+1607291937 source:c:\users\zuza2\desktop\kopia_zad_duza\zad_zuza2\zad_zuza\zad_zuza\main.cpp
+	<iostream>
+	"matrix.h"
+
+1606170695 c:\users\zuza2\desktop\kopia_zad_duza\zad_zuza2\zad_zuza\zad_zuza\matrix.h
+	<iostream>
+	<fstream>
+
+1607291911 source:c:\users\zuza2\desktop\kopia_zad_duza\zad_zuza2\zad_zuza\zad_zuza\matrix.cpp
+	<iostream>
+	<string>
+	"matrix.h"
+
